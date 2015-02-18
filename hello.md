@@ -1,2 +1,2 @@
 # Hello world
-Made by B.
+Made by A & B.
